@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Djura\Desktop\FAKULTET\DRUGA GODINA\TRECI SEMESTAR\Programski jezici\PJ\seminarski rad\seminarski\seminarski\main.cpp(189,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Djura\Desktop\FAKULTET\DRUGA GODINA\TRECI SEMESTAR\Programski jezici\PJ\seminarski rad\seminarski\seminarski\main.cpp(208,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  seminarski.vcxproj -> C:\Users\Djura\Desktop\FAKULTET\DRUGA GODINA\TRECI SEMESTAR\Programski jezici\PJ\seminarski rad\seminarski\Debug\seminarski.exe
